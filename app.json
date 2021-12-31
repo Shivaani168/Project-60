@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "project-60",
+    "slug": "snack-b4fa108c-a010-48a9-8cf2-7ac24217468d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.shivaani.snack-b4fa108c-a010-48a9-8cf2-7ac24217468d"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.shivaani.snackb4fa108ca01048a98cf27ac24217468d"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
